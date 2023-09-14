@@ -88,6 +88,7 @@ By default, the program produces data for 26 different objects automatically. Yo
 >
 > In the live server, click "Next" or "Prev" until you reach the last index number. If the highest index number is now 26 instead of 25, then you succeeded in adding a new object to the array.
 
+- **2a)** 
 ## TODO 2: Add a New Property
 
 For this TODO, you will need to add a new `goodBehavior` property to every object in the `dataShapes` array.
